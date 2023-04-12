@@ -6,6 +6,7 @@ My faculty mentor is a busy guy. In addition to managing his research projects h
 
 It’s important for his students to know when he is available, but because he is so busy, he wants to be able to quickly configure his calendar week-to-week.
 
+
 ## Mininal Requirements
 * Design a simple text file format that can represent weekly availability windows
 * Read that text file and use it to display a calendar view of the information
